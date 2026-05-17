@@ -8,6 +8,7 @@ Sofia Martín Peñarroya
 <picture>
 <source media= "(prefers-color-scheme: light)" srcset=grafoPrograma.drawio.png>
 <source media="(prefers-color-scheme: dark)" srcset=darkGrafoPrograma.drawio.png>
+<img alt="grafo para modo oscuro" src="darkGrafoPrograma.drawio.png">
 </picture>
 
 ## Complejidad ciclomática
