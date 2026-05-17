@@ -4,15 +4,18 @@ Entornos de Desarrollo - 1º DAw
 
 ## Grafo del flujo del programa
 
-![GitHub-Mark-Light](./grafoPrograma.drawio.png)
-![GitHub-Mark-Dark ](./darkGrafoPrograma.drawio.png)
+<picture>
+<source media= "(prefers-color-scheme: light)" srcset=grafoPrograma.drawio.png>
+<source media="(prefers-color-scheme: dark)" srcset=darkGrafoPrograma.drawio.png>
+<img alt="grafo para modo oscuro" src="darkGrafoPrograma.drawio.png">
+</picture>
 
 
 ## Complejidad ciclomática
 
 ### Cálculo de la complejidad ciclomática
 
- Fórmula $$VG = \frac{aristas}{nodos} + 2$$
+  $$V(G) = \frac{aristas}{nodos} + 2$$
 
 ### Cálculo específico del programa
 - El grafo del programa contiene:
@@ -20,7 +23,7 @@ Entornos de Desarrollo - 1º DAw
     - 8 aristas
 
 $$ 
-\text{VG} = \frac{8}{6} + 2 = 3,33
+\text{V(G)} = \frac{8}{6} + 2 = 3,33
 $$
 
 - Es un programa sencillo sin mucho riesgo
