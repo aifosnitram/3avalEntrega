@@ -1,15 +1,12 @@
 # Entrega prueba del camino básico
 
 Entornos de Desarrollo - 1º DAw
-Sofia Martín Peñarroya
 
 ## Grafo del flujo del programa
 
-<picture>
-<source media= "(prefers-color-scheme: light)" srcset=grafoPrograma.drawio.png>
-<source media="(prefers-color-scheme: dark)" srcset=darkGrafoPrograma.drawio.png>
-<img alt="grafo para modo oscuro" src="darkGrafoPrograma.drawio.png">
-</picture>
+![GitHub-Mark-Light](./grafoPrograma.drawio.png)
+![GitHub-Mark-Dark ](./darkGrafoPrograma.drawio.png)
+
 
 ## Complejidad ciclomática
 
