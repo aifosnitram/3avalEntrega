@@ -5,20 +5,24 @@ Sofia Martín Peñarroya
 
 ## Grafo del flujo del programa
 
-![Grafo del flujo del programa](./grafoPrograma.drawio.png)
-![Grafo del flujo del programa](./darkGrafoPrograma.drawio.png)
+<picture>
+<source media= "(prefers-color-scheme: light)" srcset=grafoPrograma.drawio.png>
+<source media="(prefers-color-scheme: dark)" srcset=darkGrafoPrograma.drawio.png>
+</picture>
 
 ## Complejidad ciclomática
 
 ### Cálculo de la complejidad ciclomática
 
-- Fórmula VG = aristas/nodos + 2
+ Fórmula $$VG = \frac{aristas}{nodos} + 2$$
 
-6 nodos
-8 aristas
+### Cálculo específico del programa
+- El grafo del programa contiene:
+    - 6 nodos
+    - 8 aristas
 
 $$ 
-\text{VG} = (8/6) + 2 = 3,33
+\text{VG} = \frac{8}{6} + 2 = 3,33
 $$
 
 - Es un programa sencillo sin mucho riesgo
