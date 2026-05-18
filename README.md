@@ -36,4 +36,11 @@ $$
 
 ## Obtención de los casos de prueba
 
+| **Entrada**              | **Camino Independiente** | **Salida Esperada** |
+|:------------------------:|:------------------------:|:-------------------:|
+| NE = 6, NT = 7, (NR = 0) | 1 - 2 - 3 - 4 - 6        | NF = (6.4) -> 3,2   |
+| NE = 7, NT = 3, NR = 5   | 1 - 2 - 3 - 5 - 6        | NF = NR = 5         |
+| NE = 2, NT = 4, NR = 6   | 1 - 2 - 5 - 6            | NF = NR = 6         |
+
+
 
