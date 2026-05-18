@@ -6,7 +6,7 @@ Entornos de Desarrollo - 1º DAw
 
 <picture>
 <source media= "(prefers-color-scheme: light)" srcset=grafoPrograma.drawio.png>
-<source media="(prefers-color-scheme: dark)" srcset=darkGrafoPrograma.drawio.png>
+<source media="(prefers-color-scheme: dark)" srcset=grafoPrograma-dark.drawio.png>
 <img alt="grafo para modo oscuro" src="darkGrafoPrograma.drawio.png">
 </picture>
 
@@ -33,6 +33,14 @@ $$
 - Camino 1: 1 - 2 - 3 - 4 - 6
 - Camino 2: 1 - 2 - 3 - 5 - 6
 - Camino 3: 1 - 2 - 5 - 6
+
+### Grafo caminos independientes
+
+<picture>
+<source media= "(prefers-color-scheme: light)" srcset=grafo_caminos_light.drawio.png>
+<source media="(prefers-color-scheme: dark)" srcset=grafo_caminos_dark.drawio.png>
+<img alt="grafo para modo oscuro" src="grafo_caminos_dark.drawio.png">
+</picture>
 
 ## Obtención de los casos de prueba
 
