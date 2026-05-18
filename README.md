@@ -5,9 +5,9 @@ Entornos de Desarrollo - 1º DAw
 ## Grafo del flujo del programa
 
 <picture>
-<source media= "(prefers-color-scheme: light)" srcset=grafoPrograma.drawio.png>
-<source media="(prefers-color-scheme: dark)" srcset=grafoPrograma-dark.drawio.png>
-<img alt="grafo para modo oscuro" src="darkGrafoPrograma.drawio.png">
+<source media= "(prefers-color-scheme: light)" srcset=./img/grafoPrograma.drawio.png>
+<source media="(prefers-color-scheme: dark)" srcset=./img/grafoPrograma-dark.drawio.png>
+<img alt="grafo para modo oscuro" src="./img/darkGrafoPrograma.drawio.png">
 </picture>
 
 
@@ -37,9 +37,9 @@ $$
 ### Grafo caminos independientes
 
 <picture>
-<source media= "(prefers-color-scheme: light)" srcset=grafo_caminos_light.drawio.png>
-<source media="(prefers-color-scheme: dark)" srcset=grafo_caminos_dark.drawio.png>
-<img alt="grafo para modo oscuro" src="grafo_caminos_dark.drawio.png">
+<source media= "(prefers-color-scheme: light)" srcset=./img/grafo_caminos_light.drawio.png>
+<source media="(prefers-color-scheme: dark)" srcset=./img/grafo_caminos_dark.drawio.png>
+<img alt="grafo para modo oscuro" src="./img/grafo_caminos_dark.drawio.png">
 </picture>
 
 ## Obtención de los casos de prueba
